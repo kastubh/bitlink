@@ -240,31 +240,31 @@ const features = [
 const testimonials = [
   {
     content: "Bitlink has transformed how we share links with our customers.",
-    name: "Nivya Johnson",
+    name: "Kastubh",
     role: "Marketing Director",
     avatar: "https://randomuser.me/api/portraits/women/11.jpg"
   },
   {
     content: "The custom branding feature helps maintain our professional image .",
-    name: "Michael Chen",
+    name: "manirajan",
     role: "Social Media Manager",
     avatar: "https://randomuser.me/api/portraits/men/1.jpg"
   },
   {
     content: "Simple, fast, and reliable. Exactly what we needed for our link management.",
-    name: "Emma Williams",
+    name: "testuser1",
     role: "Content Creator",
     avatar: "https://randomuser.me/api/portraits/women/2.jpg"
   },
   {
     content: "Thank you for creatively solving the link managemnt Problem",
-    name: "Sujain shah",
+    name: "testuser2",
     role: "Content Creator",
     avatar: "https://randomuser.me/api/portraits/women/8.jpg"
   },
   {
     content: "Feature rich link management tool really like the UI/UX.",
-    name: "Estonia martin",
+    name: "mukund",
     role: "Event Organizer",
     avatar: "https://randomuser.me/api/portraits/women/5.jpg"
   },

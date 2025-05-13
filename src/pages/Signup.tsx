@@ -41,7 +41,7 @@ const Signup = () => {
               onChange={(e) => setFullname(e.target.value)}
               required
               className="dark:bg-[#2c2f36] border-gray-700  outline-transparent "
-              placeholder="John Doe"
+              placeholder="kastubh mani"
             />
           </div>
           <div> 
@@ -53,7 +53,7 @@ const Signup = () => {
               onChange={(e) => setUsername(e.target.value)}
               required
               className="dark:bg-[#2c2f36] border-gray-700 text-white"
-              placeholder="johndoe"
+              placeholder="kastubh"
             />
           </div>
           <div>
@@ -65,7 +65,7 @@ const Signup = () => {
               onChange={(e) => setEmail(e.target.value)}
               required
               className="dark:bg-[#2c2f36] border-gray-700 text-white"
-              placeholder="john@example.com"
+              placeholder="mani@example.com"
             />
           </div>
           <div>
@@ -77,7 +77,7 @@ const Signup = () => {
               onChange={(e) => setPassword(e.target.value)}
               required
               className="dark:bg-[#2c2f36] border-gray-700 text-white"
-              placeholder="••••••••"
+              placeholder="********"
             />
           </div>
           <Button type="submit" className="w-full bg-blue-600 hover:bg-blue-700 mt-6">
