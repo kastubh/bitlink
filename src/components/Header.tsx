@@ -65,7 +65,7 @@ const Header = () => {
         </div>
         <ul className="flex flex-col md:flex-row items-center space-y-4 md:space-y-0 md:space-x-6 p-4 md:p-0">
                  <li><NavLink to="/" className="text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors">Home</NavLink></li>
-                 <li><NavLink to="/features" className="text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors">Features</NavLink></li>
+                 
                  {isAuthenticated ? (
                    <>
                      <li><NavLink to="/dashboard" className="text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors">Dashboard</NavLink></li>

@@ -242,7 +242,7 @@ const testimonials = [
     content: "Bitlink has transformed how we share links with our customers.",
     name: "Kastubh",
     role: "Marketing Director",
-    avatar: "https://randomuser.me/api/portraits/women/11.jpg"
+    avatar: "https://randomuser.me/api/portraits/men/11.jpg"
   },
   {
     content: "The custom branding feature helps maintain our professional image .",
